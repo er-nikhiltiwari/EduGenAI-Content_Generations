@@ -1,1 +1,1 @@
-# EduGenAI-Content_Generations
+EduGenAI: Content Generations
