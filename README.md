@@ -1,1 +1,3 @@
 EduGenAI: Content Generations
+
+Generative AI (EduGenAI) is transforming education by automating content creation, generations and enhancing accessibility. This project explores AI-driven tools such as text-to-image generation, text-to-audio transformation, text-to-emoji, and text-to-sppeech to create personalized and engaging learning experiences. By integrating these technologies, the project aims to simplify content development, improve efficiency, and offer interactive and adaptive learning solutions. AI-driven automation can assist educators in lesson planning, assessment generation, and real-time feedback, reducing workload and fostering a more inclusive and effective educational environment.
